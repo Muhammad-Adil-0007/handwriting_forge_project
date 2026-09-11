@@ -1,0 +1,6 @@
+checkpoints/
+newCheckpoints/
+checkpoints/
+newCheckpoints/
+__pycache__/
+*.pyc
